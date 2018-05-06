@@ -1,7 +1,7 @@
 import React from "react"
 
 export default () => (
-  <div>
+  <div style={{ margin: "3rem auto", maxWidth: 600 }}>
     <h1>Heading</h1>
     <div>
       <p>
@@ -15,4 +15,4 @@ export default () => (
     </div>
     <p>Posted on 02/05/2018</p>
   </div>
-)
+);
